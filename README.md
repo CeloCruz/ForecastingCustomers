@@ -1,5 +1,5 @@
 # Time Series Forecasting with XGBoost: Customer Forecasting for optimal ROI
-
+Take a look at the project: https://nbviewer.org/github/CeloCruz/ForecastingCustomers/blob/main/forecasting_final.ipynb
 ## Project Overview
 
 **Objective:** This project represents a real-world application of machine learning to enhance forecasting capabilities, leveraging the power of the XGBoost model. The primary aim is to optimize weekly purchase budgets across multiple restaurants by analyzing time series data and employing advanced analytics.

@@ -27,7 +27,7 @@
 - **Statistical Analysis:** Statsmodels
 - **Machine Learning:** Scikit-Learn, XGBoost
 
-** Skills required **
+**Skills required:**
 - Business Understanding
 - Critical Thinking & Problem Solving
 - Domain Knowledge in Time Series Forecasting

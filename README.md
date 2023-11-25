@@ -1,4 +1,4 @@
-# Time Series Forecasting with XGBoost: Customer Forecasting for optimal ROI
+# Strategic Customer Forecasting: Maximizing ROI through Time Series Insights
 Take a look at the project: https://nbviewer.org/github/CeloCruz/ForecastingCustomers/blob/ddc205b3a5c6ecd0763e146c44da69cdb7548758/forecasting_notebook.ipynb
 ## Project Overview
 
